@@ -1,3 +1,9 @@
+/*
+for any number n, it takes n * log(log(n)) time to compute all prime numbers from
+1 to n
+ */
+
+
 import java.util.*;
 public class Sieve_Of_Eratosthenes {
     public static void main(String[] args) {
